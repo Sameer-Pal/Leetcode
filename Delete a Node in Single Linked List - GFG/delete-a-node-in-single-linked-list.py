@@ -9,13 +9,24 @@ class node:
 '''
 
 def delNode(head, k):
-  curr=head
-  if k==1: return curr.next
-  for i in range(1,k-1):
-      curr=curr.next
-  curr.next=curr.next.next
-  return head
+  if k <= 0 or head is None:
+        return head  # Invalid k or empty list, do nothing
 
+  if k == 1:
+        return head.next 
+  curr=head
+  prev=None
+  count=1
+  
+  while curr: 
+      if count==k: 
+          prev.next=curr.next
+          return head
+      prev=curr
+      curr=curr.next
+      count+=1
+      
+  return head
 #{ 
  # Driver Code Starts
 # Node Class    
