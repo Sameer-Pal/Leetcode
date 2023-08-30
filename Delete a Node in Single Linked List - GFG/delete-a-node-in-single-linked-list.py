@@ -9,8 +9,8 @@ class node:
 '''
 
 def delNode(head, k):
-  if k <= 0 or head is None:
-        return head  # Invalid k or empty list, do nothing
+#   if k <= 0 or head is None:
+#         return head  # Invalid k or empty list, do nothing
 
   if k == 1:
         return head.next 
