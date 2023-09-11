@@ -7,7 +7,7 @@ class Solution:
             
             if n%counter==0:
                 return 0
-            if counter>n:
+            elif counter>n:
                 return 1
             return self.help(n-n//counter,counter+1)
 
