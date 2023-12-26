@@ -29,7 +29,7 @@ class Codec:
           node.right = helper2(lst)
           return node
         lst = data.split(",")
-        return helper2(lst)
+        return helper2(lst[:-1])
 
         
 
