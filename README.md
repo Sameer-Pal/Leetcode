@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sameer-Pal/Leetcode/tree/master/0079-word-search) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sameer-Pal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -19,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sameer-Pal/Leetcode/tree/master/0079-word-search) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sameer-Pal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sameer-Pal/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
