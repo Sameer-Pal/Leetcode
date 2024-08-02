@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/Sameer-Pal/Leetcode/tree/master/0079-word-search) |
 | [0349-intersection-of-two-arrays](https://github.com/Sameer-Pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sameer-Pal/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sameer-Pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sameer-Pal/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sameer-Pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sameer-Pal/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 <!---LeetCode Topics End-->
