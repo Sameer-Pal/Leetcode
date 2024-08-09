@@ -51,4 +51,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Sameer-Pal/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sameer-Pal/Leetcode/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sameer-Pal/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sameer-Pal/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
