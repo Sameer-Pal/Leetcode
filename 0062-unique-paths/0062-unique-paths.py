@@ -1,17 +1,17 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-      prev=[0]*n 
-      for i in range(m):
-          curr=[0]*n
-          for j in range(n):
-              if i==0 or j ==0: curr[j]=1
-              else:
-                  up=0
-                  left=0
-                  if i>0:
-                      up=prev[j]
-                  if j>0: 
-                      left=curr[j-1] 
-                  curr[j]=left+up
-          prev=curr 
-      return prev[n-1]  
+        dp=[[-1]*n for k in range(m)]
+
+        def helper(row,col):
+            # nonlocal c
+            if row==0 or  col==0:
+                return 1 
+            if row < 0 or col < 0:
+                return 0
+            if dp[row][col]!=-1:
+                return dp[row][col]
+            up = helper(row-1,col)
+            left = helper(row,col-1)
+            dp[row][col] = up+left
+            return dp[row][col]
+        return helper(m-1,n-1)
